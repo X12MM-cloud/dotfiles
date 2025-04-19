@@ -1,0 +1,20 @@
+
+alias cd..='cd ..'
+alias mohamed='cd /media/mohamed_data/mohamed/'
+alias work='cd /media/mohamed_data/mohamed/Mohamed/Mohamed/Zeta-X.co'
+alias mntsd5='sudo mount -t ntfs-3g /dev/sda5 /media/Mohamed_Data'
+
+alias apt-update='sudo apt update && sudo apt upgrade'
+
+alias py='python3'
+alias catalyst='cd "/media/mohamed_data/mohamed/Zeta-X.co/Zeta Browser/Catalyst fr/"'
+
+alias cursor='~/Applications/cursor.AppImage --no-sandbox'
+alias gd='cd "/media/mohamed_data/Geometry Dash - 2.2074/" && wine GeometryDash.exe'
+
+
+alias gde3='sudo systemctl start gdm3.service'
+alias unmskgde3='sudo systemctl unmask gdm3.service'
+
+alias gemini='cd ~/Documents/gemini && source geminiEnv/bin/activate && python3 /home/mohamed/Documents/gemini/gemini.py && deactivate'
+
